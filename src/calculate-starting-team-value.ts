@@ -4,6 +4,7 @@ import { playerStatsService } from "./service/playerdata.service";
 /**
  * Calculates the market value of the original lineup as of 2023-08-07.
  * @param leagueId
+ * @param userId
  * @param startingTeam
  * @returns
  */
